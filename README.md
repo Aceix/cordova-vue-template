@@ -2,10 +2,6 @@
 
 > A simple Cordova+Vue+Webpack customizable boilerplate.
 
-## Documentation
-
-- [Reference for this template](https://github.com/carynbear/cordova-template)
-- [For Vue 2.0](http://vuejs.org/guide/): general information about how to work with Vue, not specific to this template
 
 ## Usage
 
@@ -22,6 +18,11 @@ $ cordova run browser | android | ios
 ```
 
 The development server will run on port 8000 by default.
+
+## Documentation
+
+- [Reference for this template](https://github.com/carynbear/cordova-template)
+- [For Vue 2.0](http://vuejs.org/guide/): general information about how to work with Vue, not specific to this template
 
 
 ### Fork It And Make Your Own
